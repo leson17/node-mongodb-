@@ -1,0 +1,23 @@
+{
+  "name": "douban_movie",
+  "version": "1.0.0",
+  "description": "imooc node建站一期",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~4.16.3",
+    "jade": "~1.11.0",
+    "moment": "~2.22.2",
+    "mongoose": "~5.2.7",
+    "underscore": "~1.9.1",
+    "body-parser": "1.18.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:mingleilee/douban_movie.git"
+  },
+  "author": "arley",
+  "license": "MIT"
+}
